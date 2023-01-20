@@ -1,6 +1,8 @@
 
 # Python if __name__ == __main__ Explained with Code Examples
 
+[رابط المقالة](https://www.freecodecamp.org/arabic/news/__python-if-__name__-__main-shrh-blmthl/)
+
 ![Goran Aviani](https://www.freecodecamp.org/news/content/images/size/w100/2019/08/IMG_20190427_195820.jpg)
 
 [Goran Aviani](https://www.freecodecamp.org/news/author/goran/)
